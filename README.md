@@ -227,15 +227,15 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 #### Videos/POC
 
-- [Black Hat: Viral Video - Exploiting SSRF in Video Converters](https://www.youtube.com/watch?v=tZil9j7TTps&feature=youtu.be)
+- [Black Hat: Viral Video - Exploiting SSRF in Video Converters](https://www.youtube.com/watch?v=tZil9j7TTps&feature=youtu.be) :white_check_mark:
 
-- [Hackerone: Hacker101 - SSRF](https://www.youtube.com/watch?v=66ni2BTIjS8)
+- [Hackerone: Hacker101 - SSRF](https://www.youtube.com/watch?v=66ni2BTIjS8) :white_check_mark:
 
-- [Bugcrowd University: Server Side Request Forgery](https://www.bugcrowd.com/resources/webinars/server-side-request-forgery/)
+- [Bugcrowd University: Server Side Request Forgery](https://www.bugcrowd.com/resources/webinars/server-side-request-forgery/) 
 
-- [Muhammad Junaid: Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw)
+- [Muhammad Junaid: Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw) :white_check_mark:
 
-- [Muhammad Junaid: Flickr (Yahoo!) SSRF and Local File Disclosure](https://www.youtube.com/watch?v=v3YQqTb5geU)
+- [Muhammad Junaid: Flickr (Yahoo!) SSRF and Local File Disclosure](https://www.youtube.com/watch?v=v3YQqTb5geU) :white_check_mark:
 
 - [Corben Leo: SMTP Access via SSRF in HackerTarget API](https://www.youtube.com/watch?v=F_sC_OrSkIc)
 
