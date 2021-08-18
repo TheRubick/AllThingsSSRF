@@ -62,9 +62,9 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [NoGe: Serer Side Request Forgery (SSRF) Testing](https://medium.com/bugbountywriteup/server-side-request-forgery-ssrf-testing-b9dfe57cca35)
 
-- [@leonmugen: SSRF Reading Local Files from DownNotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
+- [@leonmugen: SSRF Reading Local Files from DownNotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/) :white_check_mark:
 
-- [Fireshell Security Team: SunshineCTF - Search Box Writeup](https://fireshellsecurity.team/sunshinectf-search-box/)
+- [Fireshell Security Team: SunshineCTF - Search Box Writeup](https://fireshellsecurity.team/sunshinectf-search-box/) :white_check_mark:
 
 - [SSRF vulnerability via FFmpeg HLS processing](https://medium.com/@valeriyshevchenko/ssrf-vulnerability-via-ffmpeg-hls-processing-f3823c16f3c7)
 
@@ -72,7 +72,7 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Exploiting SSRF like a Boss — Escalation of an SSRF to Local File Read!](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)
 
-- [Chris Young: SSRF - Server Side Request Forgery](https://chris-young.net/2018/04/13/ssrf-server-side-request-forgery/)
+- [Chris Young: SSRF - Server Side Request Forgery](https://chris-young.net/2018/04/13/ssrf-server-side-request-forgery/) :white_check_mark:
 
 - [Day Labs: SSRF attack using Microsoft's bing webmaster central](https://blog.0daylabs.com/2015/08/09/SSRF-in-Microsoft-bing/)
 
@@ -140,7 +140,7 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Asterisk Labs: Server-side request forgery in Sage MicrOpay ESP](https://labs.asteriskinfosec.com.au/tag/ssrf/)
 
-- [EdOverflow: Operation FGTNY 🗽 - Solving the H1-212 CTF](https://edoverflow.com/2017/h1-212-ctf/)
+- [EdOverflow: Operation FGTNY 🗽 - Solving the H1-212 CTF](https://edoverflow.com/2017/h1-212-ctf/) :white_check_mark:
 
 - [Alyssa Herrera: Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)
 
