@@ -237,21 +237,19 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Muhammad Junaid: Flickr (Yahoo!) SSRF and Local File Disclosure](https://www.youtube.com/watch?v=v3YQqTb5geU) :white_check_mark:
 
-- [Corben Leo: SMTP Access via SSRF in HackerTarget API](https://www.youtube.com/watch?v=F_sC_OrSkIc)
+- [Corben Leo: SMTP Access via SSRF in HackerTarget API](https://www.youtube.com/watch?v=F_sC_OrSkIc) :white_check_mark:
 
-- [Nikhil Mittal: HootSuite SSRF Vulnerability POC](https://www.youtube.com/watch?v=L9bGSNmlJXU)
+- [Nikhil Mittal: HootSuite SSRF Vulnerability POC](https://www.youtube.com/watch?v=L9bGSNmlJXU) :white_check_mark:
 
 - [Hack In The Box Security Conference: HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
 
 - [Crazy Danish Hacker: Server-Side Request Forgery (SSRF) - Web Application Security Series #1](https://www.youtube.com/watch?v=K_ElxRc9LLk)
 
-- [LiveOverFlow: PHP include and bypass SSRF protection with two DNS A records - 33c3ctf list0r (web 400)](https://www.youtube.com/watch?v=PKbxK2JH23Y)
+- [LiveOverFlow: PHP include and bypass SSRF protection with two DNS A records - 33c3ctf list0r (web 400)](https://www.youtube.com/watch?v=PKbxK2JH23Y) :white_check_mark:
 
-- [Nahamsec: Owning the Clout through SSRF & PDF Generators - Defcon 27 - (SSRF on ads.snapchat.com)](https://www.youtube.com/watch?v=Gcab8sLBmnk)
+- [Nahamsec: Owning the Clout through SSRF & PDF Generators - Defcon 27 - (SSRF on ads.snapchat.com)](https://www.youtube.com/watch?v=Gcab8sLBmnk) :white_check_mark:
 
 - [Tutorials Point (India) Pvt. Ltd: Penetration Testing - Server Side Request Forgery (SSRF)](https://www.youtube.com/watch?v=_IVjvNelzMw)
-
-- [Hack In The Box Security Conference: HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
 
 - [AppSec EU15 - Nicolas Gregoire - Server-Side Browsing Considered Harmful](https://www.youtube.com/watch?v=8t5-A4ASTIU)
 
